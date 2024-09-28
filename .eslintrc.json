@@ -1,0 +1,6 @@
+{
+  "extends": ["plugin:@typescript-eslint/recommended"],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "error"  // 'any'型の使用をエラーにする
+  }
+}
