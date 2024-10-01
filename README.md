@@ -1,6 +1,6 @@
-# Next.js & Express TypeScript Hello World（大規模）
+# Next.js & Express TypeScript Hello World 初期設定とベストプラクティス（大規模）
 
-これは、Next.jsとExpressを組み合わせた **Next.js & Express Hello World** プロジェクトです。大規模なプロジェクト向けの基本的なセットアップを行い、"Hello World"メッセージを表示する方法を示します。
+これは、TypeScriptのNext.jsを用いた大規模プロジェクトの初期設定とベストプラクティスを盛り込んだ構築例です。
 
 ## 目次
 - [必要条件](#必要条件)
